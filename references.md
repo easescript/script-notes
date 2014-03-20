@@ -7,6 +7,9 @@ References
 [FreeCode](http://freecode.com/)
 [GitHub](http://github.com)
 
+[How to Create an RPM
+Package](http://fedoraproject.org/wiki/How_to_create_an_RPM_package)
+
 [Command line reference](http://ss64.com)
 [OpenSSL Command-Line HOWTO](http://www.madboa.com/geek/openssl)
 
