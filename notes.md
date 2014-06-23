@@ -1,83 +1,82 @@
 Jenkins
 -------
- Ant
- YUICompressor
- UglifyJS
- CVS
- Subversion
- GIT
- phplint
- phpunit
- docblox
- SLOCount
- JDepend
- LiquiBase
- Selenium
- Flex
- Windows msbuild/NUnit
- RunDeck
+    Ant
+    YUICompressor
+    UglifyJS
+    CVS
+    Subversion
+    GIT
+    phplint
+    phpunit
+    docblox
+    SLOCount
+    JDepend
+    LiquiBase
+    Selenium
+    Flex
+    Windows msbuild/NUnit
+    RunDeck
 
 * Build
- Make
- Rake
+    Make
+    Rake
 
 * Log Aggregator
- LogStash
+    LogStash
 
 * Splunk
- Search
- agent
- API
+    Search
+    agent
+    API
 
 Puppet
 ------
- 2.6/2.7/3.0+
- Foreman
- dashboard
- mcollective
- forge/r10k
+    2.6/2.7/3.0+
+    Foreman
+    dashboard
+    mcollective
+    forge/r10k
 
 VMWare
 ------
- ESX
- vSphere Web Client
+    ESX
+    vSphere Web Client
 * vCenter
- Datacenters
- Hosts/Clusters
- VMs/Templates
- Storage
- Networking
- Resource Pools
- vApps
- Datastores
- Datastore Clusters
- Standard Networks
- Distributed Switches
+    Datacenters
+    Hosts/Clusters
+    VMs/Templates
+    Storage
+    Networking
+    Resource Pools
+    vApps
+    Datastores
+    Datastore Clusters
+    Standard Networks
+    Distributed Switches
 * Rules and Profiles
- Host Profiles
- VM Storage Policies
+    Host Profiles
+    VM Storage Policies
 * vCenter Orchestrator
- Workflows
- vCO servers
+    Workflows
+    vCO servers
 * vSphere Data Protection
 * Administration
- Access Control/Roles
- Licensing
- Solutions
+    Access Control/Roles
+    Licensing
+    Solutions
 
 Monitoring
 ----------
- MRTG, Cacti, Nagios, rrd-collector/drraw, zabbix
- SolarWinds - ipMonitor
+    MRTG, Cacti, Nagios, rrd-collector/drraw, zabbix
+    SolarWinds - ipMonitor
 
 Issue Tracker
 -------------
- Mantis, Bugzilla, OTRS, Issuetracker
- Atlassian - JIRA/Confluence/FishEye
- ManageEngine - ServiceDesk
- 
+    Mantis, Bugzilla, OTRS, Issuetracker
+    Atlassian - JIRA/Confluence/FishEye
+    ManageEngine - ServiceDesk
+    
 Documentation
 -------------
- Wiki, Doxygen, phpxref, Sphinx, Pandoc
+    Wiki, Doxygen, phpxref, Sphinx, Pandoc
 
- 
