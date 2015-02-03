@@ -80,3 +80,14 @@ Documentation
 -------------
     Wiki, Doxygen, phpxref, Sphinx, Pandoc
 
+Database
+--------
+* Configuration
+* Operating system
+* Hardware configuration
+* Application architecture
+* Table design
+* Indexing
+* Queries
+* Capacity
+* Scaling potential
