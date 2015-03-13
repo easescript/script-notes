@@ -17,12 +17,16 @@ Jenkins
     Windows msbuild/NUnit
     RunDeck
 
+* Misc
+ * Doctrine/Smarty/Symfony/JQuery/BoostStrap
+ * AngularJS/UglifyJS/GruntJS
+
 * Build
  * Make
  * Rake
 
 * Log Aggregator
- * LogStash
+ * LogStash/Elasticsearch/Kibana/Logstash Forwarder
 
 * Splunk
  * Search
